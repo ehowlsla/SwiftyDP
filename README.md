@@ -1,6 +1,7 @@
 # SwiftyDP
 SwiftyDP is IPhone Logical Pixel from Android Design Guidline made by dp (1080 * 1920 ldpi)
 
+![demo](https://github.com/ehowlsla/SwiftyPopup/blob/master/ezgif.com-video-to-gif.gif)
 
 ## Use like this
 ~~~javascript
