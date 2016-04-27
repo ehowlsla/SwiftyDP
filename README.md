@@ -1,8 +1,6 @@
 # SwiftyDP
 SwiftyDP is IPhone Logical Pixel from Android Design Guidline made by dp (1080 * 1920 ldpi)
 
-![demo](https://github.com/ehowlsla/SwiftyDP/blob/master/Simulator%20Screen%20Shot%202016.%204.%2027.%20오후%204.24.59.png)
-
 ## Use like this
 ~~~javascript
    override func viewDidLoad() {
@@ -30,3 +28,6 @@ If you know this code, you will fall in love with designer
 ## License
 
 SwiftyPopup is under MIT license. 
+
+
+![demo](https://github.com/ehowlsla/SwiftyDP/blob/master/Simulator%20Screen%20Shot%202016.%204.%2027.%20오후%204.24.59.png)
