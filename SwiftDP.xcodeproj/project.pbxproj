@@ -14,6 +14,7 @@
 		81459AB21CD09D73009F5D65 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81459AB01CD09D73009F5D65 /* LaunchScreen.storyboard */; };
 		81459ABD1CD09D73009F5D65 /* SwiftDPTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81459ABC1CD09D73009F5D65 /* SwiftDPTests.swift */; };
 		81459AC81CD09D73009F5D65 /* SwiftDPUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81459AC71CD09D73009F5D65 /* SwiftDPUITests.swift */; };
+		81459AD71CD09D98009F5D65 /* SwiftyDP.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81459AD61CD09D98009F5D65 /* SwiftyDP.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		81459AC31CD09D73009F5D65 /* SwiftDPUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftDPUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		81459AC71CD09D73009F5D65 /* SwiftDPUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftDPUITests.swift; sourceTree = "<group>"; };
 		81459AC91CD09D73009F5D65 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		81459AD61CD09D98009F5D65 /* SwiftyDP.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyDP.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				81459AAE1CD09D73009F5D65 /* Assets.xcassets */,
 				81459AB01CD09D73009F5D65 /* LaunchScreen.storyboard */,
 				81459AB31CD09D73009F5D65 /* Info.plist */,
+				81459AD61CD09D98009F5D65 /* SwiftyDP.swift */,
 			);
 			path = SwiftDP;
 			sourceTree = "<group>";
@@ -256,6 +259,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				81459AD71CD09D98009F5D65 /* SwiftyDP.swift in Sources */,
 				81459AAA1CD09D73009F5D65 /* ViewController.swift in Sources */,
 				81459AA81CD09D73009F5D65 /* AppDelegate.swift in Sources */,
 			);
